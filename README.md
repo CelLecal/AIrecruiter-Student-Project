@@ -43,7 +43,7 @@
 
 bash
 
-git clone https://github.com/CelLecal/AIrecruter-Student-Project.git
+git clone https://github.com/CelLecal/AIrecruiter-Student-Project.git
 
 cd frontend
 
